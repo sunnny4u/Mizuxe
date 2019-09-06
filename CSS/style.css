@@ -55,11 +55,12 @@ body{
  #author .card:hover{
 	background: #3292a6;
 	color: #fff;
-	.card i{
-		color: #fff;
-	}
+	
  }
  #author .fa{
  	font-size: 25px;
- 	color: #3292a6;
+ 	color: #fff;
+ }
+ .input-group .fa{
+ 	font-size: 25px;
  }
